@@ -41,5 +41,5 @@ Subscribe now for the latest updates and exciting projects.
 Feel free to reach out to me:
 
 - Email: [mehmetseymen91@gmail.com](mehmetseymen91@gmail.com)
-- LinkedIn: [Mehmet Doğan on LinkedIn](#)
+- LinkedIn: [Mehmet Doğan on LinkedIn](https://www.linkedin.com/in/mehmet-do%C4%9Fan-1911a2222)
 - Github: [Mehmet Doğan](https://github.com/Mehmet-github06)
