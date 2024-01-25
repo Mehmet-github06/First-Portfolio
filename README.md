@@ -7,10 +7,7 @@ I am an innovative, self-confident Front-End Developer who believes that success
 
 ## Connect with Me
 
-- [Facebook](#)
-- [Twitter](#)
-- [Instagram](#)
-- [GitHub](#)
+
 ## Technologies Used
 
 - HTML5
@@ -31,7 +28,7 @@ My name is Mehmet Doğan, and I am a passionate Front-End Developer with a stron
 
 Click the button below to learn more about my work and projects.
 
-[![Learn More](https://img.shields.io/badge/Learn%20More-Click%20Here-blue)](#)
+[![Learn More](https://img.shields.io/badge/Learn%20More-Click%20Here-blue)](https://md-portfolio-rho.vercel.app/)
 
 ## Subscribe!
 
@@ -43,5 +40,6 @@ Subscribe now for the latest updates and exciting projects.
 
 Feel free to reach out to me:
 
-- Email: [mehmet.dogan@example.com](mailto:mehmet.dogan@example.com)
+- Email: [mehmetseymen91@gmail.com](mehmetseymen91@gmail.com)
 - LinkedIn: [Mehmet Doğan on LinkedIn](#)
+- Github: [Mehmet Doğan](https://github.com/Mehmet-github06)
